@@ -23,7 +23,7 @@ async def on_ready():
     print(f"Logado como {bot.user}")
 
 # Comando simples
-@bot.command()
+@bot.command(name="ping")
 async def ping(ctx):
     await ctx.send("Pong! 🏓")
 
