@@ -1,0 +1,4 @@
+NAME: Teste
+TYPE: bot
+MAIN: main.py
+COMMAND: python main.py
