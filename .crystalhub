@@ -1,4 +1,5 @@
 NAME: Teste
 TYPE: bot
+RAM: 100
 MAIN: main.py
 COMMAND: python main.py
