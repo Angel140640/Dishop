@@ -1,0 +1,6 @@
+DISPLAY_NAME=MeuBot2
+MAIN=index.js
+MEMORY=512
+VERSION=4.01
+LANGUAGE=javascript
+CUSTOM_COMMAND=node index.js
