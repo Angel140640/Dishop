@@ -1,4 +1,4 @@
-NAME: MeuBot;
+NAME: MeuBot2;
 TYPE: bot;
 RAM: 50;
 MAIN: index.js;
