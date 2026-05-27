@@ -1,5 +1,5 @@
-NAME: Teste;
+NAME: MeuBot;
 TYPE: bot;
-RAM: 100;
-MAIN: main.py;
-COMMAND: python main.py;
+RAM: 50;
+MAIN: index.js;
+COMMAND: node index.js;
