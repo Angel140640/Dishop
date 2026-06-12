@@ -1,3 +1,22 @@
 {
-  "type": "module"
+  "name": "dishop",
+  "version": "1.0.0",
+  "description": "Bot Discord básico com discord.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  }
 }
